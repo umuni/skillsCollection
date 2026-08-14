@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java 与大模型小白讲解"
+  short_description: "用通俗语言解释 Java 和大模型知识点与常见报错"
+  default_prompt: "使用 $java-llm-beginner-explainer，用小白能听懂的方式解释我的知识点，并配最小示例和自测题。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "每日测试工作计划"
+  short_description: "用5W3H拆解测试任务，生成有工时依据的每日执行计划"
+  default_prompt: "使用 -test-work-planner 拆解并优化我今天的测试工作任务。"
