@@ -1,0 +1,4 @@
+interface:
+  display_name: "New Test Case Creator"
+  short_description: "Phased, high-coverage structured test cases with Excel export"
+  default_prompt: "Generate structured functional test cases from requirements with outline locking, progressive coverage, validation locks, and Excel export."

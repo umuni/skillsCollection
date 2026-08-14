@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python LLM Expert"
+  short_description: "Expert Python and LLM analysis, explanations, and solutions"
+  default_prompt: "Use $master-python-llm to analyze this Python or LLM problem and help me understand and solve it."
